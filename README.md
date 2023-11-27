@@ -42,7 +42,7 @@ Una vez en el sitio podremos ver que en la raiz tenemos dos apartados:
 - admin/
 - app/
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SRE-Adolfo-MX/Tercera-pre-entrega-DelCastilloGomezAdolfo/tree/master/tercer_proyecto/images/imagen1.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/tercer_proyecto/images/imagen1.png)
 
 En este caso usaremos el apartado app/ quedando la URL de esta manera:
 
