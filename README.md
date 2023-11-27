@@ -42,7 +42,7 @@ Una vez en el sitio podremos ver que en la raiz tenemos dos apartados:
 - admin/
 - app/
 
-<span>https://github.com/SRE-Adolfo-MX/Tercera-pre-entrega-DelCastilloGomezAdolfo/tree/master/tercer_proyecto/git_images/imagen1.png</span><span>)</span>
+(https://github.com/SRE-Adolfo-MX/Tercera-pre-entrega-DelCastilloGomezAdolfo/tree/master/tercer_proyecto/git_images/imagen1.png)
 
 En este caso usaremos el apartado app/ quedando la URL de esta manera:
 
